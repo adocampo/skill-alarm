@@ -1,0 +1,6 @@
+(establece|pon|quiero) (una) alarma a las {time} ({ampm}|) cada {daytype}
+(establece|pon|quiero) a las {time} ({ampm}|) (una) alarma cada {daytype}
+(establece|pon|quiero) cada {daytype} (una) alarma a las {time} ({ampm}|)
+(establece|pon|quiero) (una) alarma cada {daytype} a las {time} ({ampm}|)
+(establece|pon|quiero) (una) alarma recurrente a las {time} ({ampm}|) cada {daytype}
+(establece|pon|quiero) (una) alarma recurrente (los|el) {daytype} a las {time}({ampm}| {ampm}|)

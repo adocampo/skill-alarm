@@ -1,0 +1,14 @@
+estado de la alarma
+¿cuántas alarmas tengo?
+¿tengo alguna alarma?
+¿tego alguna alarma programada?
+¿tego alguna alarma establecida?
+¿cuándo es mi siguiente alarma?
+estado de las alarmas
+estado de la alarma de las {time} ({ampm}|)
+estado de mi alarma de las {time} ({ampm}|) {daytype}
+estado de mi alarma de las {time} ({ampm}|)
+¿cuánto queda para que suene la alarma de las {time} ({ampm}|) {daytype}?
+tiempo restante para la alarma de las {time} ({ampm}|)
+tiempo restante de la alarma {length}
+¿cuánto queda de la alarma {length}?

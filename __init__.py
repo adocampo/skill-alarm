@@ -460,7 +460,7 @@ class AlarmSkill(MycroftSkill):
         self.converse_context = {}
         self.should_converse = False
 
-    def converse(self, utterances, lang='en-us'):
+    def converse(self, utterances, lang='es-es'):
         if self.converse_context['context'] == 'need.ampm':
             utt = utterances[0]
             prev_message_data = self.converse_context.get('data')

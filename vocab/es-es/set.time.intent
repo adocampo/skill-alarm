@@ -1,0 +1,11 @@
+depiértame en {length}.
+depiértame en {length} desde ahora.
+levántame en {length}.
+levántame en {length} desde ahora.
+(pon|empieza|establece) (una|la) alarma en {length} desde ahora.
+(pon|empieza|establece) alarma en {length} desde ahora.
+(pon|empieza|establece) (una|la) alarma a las {time} ({ampm}|) (este|el) ({daytype}|)
+(pon|empieza|establece) (el|los|) {daytype} a (la|las|) {time} ({ampm}|)
+(pon|empieza|establece) (una|la) alarma a las {time} ({ampm}|)
+(pon|empieza|establece) (una|la) alarma a las {time}
+(pon|empieza|establece) (una|la) alarma a las {time} (este|el) ({daytype}|)

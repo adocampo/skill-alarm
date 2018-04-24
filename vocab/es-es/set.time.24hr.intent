@@ -1,0 +1,9 @@
+depiértame (a las {time}| durante {time}| ) cada {daytype} (a las {time}| durante {time}| ) (llamada {label} | ).
+levántame (a las {time}| durante {time}| ) cada {daytype} (a las {time}| durante {time}| ) (llamada {label} | ).
+(establece | crea | pon | haz) una alarma (despertador | ) (a las {time}| durante {time}| ) cada {daytype} (a las {time}| durante {time}| ) (llamada {label} | ).
+(establece | crea | pon | haz) una alarma (despertador | ) (a las {time}| durante {time}| ) los {daytype}.
+(establece | crea | pon | haz) una alarma (despertador | ) (a las {time}| durante {time}| ) {daytype}.
+despiértame en {length}.
+despiértame en {length} desde ahora.
+levántame en {length}.
+levántame en {length} desde ahora.
